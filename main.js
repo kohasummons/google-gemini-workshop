@@ -52,7 +52,6 @@ async function run() {
   const text = response.text();
 
   solutionEl.innerText = text;
-  console.log(text);
 }
 
 solveBtn.addEventListener('click', () => {
