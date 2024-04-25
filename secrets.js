@@ -1,1 +1,1 @@
-export const GOOGLE_GEMINI_API_KEY=""
+export const GOOGLE_GEMINI_API_KEY="AIzaSyDi_7qelCi2KTxsSLKT-jvnb_MWoYQVau0"
